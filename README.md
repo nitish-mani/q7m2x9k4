@@ -95,8 +95,3 @@ The app is containerized. For a hosted demo, deploy the FastAPI backend as a Doc
 
 AI assistance (OpenAI ChatGPT) was used to help draft the initial application scaffold, frontend layout, API structure, data-analysis methodology and documentation. The developer should review, run, test and validate all generated code and analytical assumptions before submission.
 
-## Video demo outline (maximum 10 minutes)
-
-1. **Client pitch (0:00–4:30):** decision problem, dashboard KPIs, forecast-vintage cutoff, actual-vs-forecast chart, daily errors, CSV export, caveats and business value.
-2. **Technical review (4:30–9:30):** architecture, API endpoints, Elexon ingestion, timestamp normalization, forecast-vintage selection, error metrics, Docker, error handling, limitations and next steps.
-3. Keep the video unlisted and test the video URL in a private/incognito browser before submitting.
