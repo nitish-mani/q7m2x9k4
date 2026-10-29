@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: wind-forecast-intelligence-api
+    runtime: docker
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: ./backend
+    healthCheckPath: /api/health
+    envVars:
+      - key: CORS_ORIGINS
+        value: https://REPLACE-WITH-YOUR-VERCEL-DOMAIN.vercel.app
+      - key: LOG_LEVEL
+        value: INFO
