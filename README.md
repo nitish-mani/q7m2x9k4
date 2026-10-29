@@ -93,5 +93,4 @@ The app is containerized. For a hosted demo, deploy the FastAPI backend as a Doc
 
 ## AI tools disclosure
 
-AI assistance (OpenAI ChatGPT) was used to help draft the initial application scaffold, frontend layout, API structure, data-analysis methodology and documentation. The developer should review, run, test and validate all generated code and analytical assumptions before submission.
-
+AI assistance (OpenAI ChatGPT) was used to help draft the initial application scaffold, frontend layout, API structure, data-analysis methodology and documentation. 
